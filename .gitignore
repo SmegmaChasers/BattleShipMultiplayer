@@ -11,7 +11,7 @@
 bin/**
 tmp/**
 tmp/**/*
-.plugins
+.plugins/**
 *.tmp
 *.bak
 *.swp
